@@ -78,7 +78,3 @@ if pdf_folder != "":
             sleep(3)
 else:
     print("No Folder selected")
-
-
-            
-    
